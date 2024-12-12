@@ -1,5 +1,5 @@
 ## [CommonPatterns](/README.md#common-patterns) - Two Pointer
-![image](imgs\two-pointers-0.png)
+![image](imgs/two-pointers-0.png)
 
 167. Two Sum II - Input Array Is Sorted
 15.  3Sum

@@ -5,13 +5,13 @@
 - When you want to process child nodes before the parent, use postorder
 - When you need to explore all nodes at current level before next, use level order
 
-![image](imgs\bst-0.png)
+![image](imgs/bst-0.png)
 
-![image](imgs\bst-1.png)
+![image](imgs/bst-1.png)
 
-![image](imgs\bst-2.png)
+![image](imgs/bst-2.png)
 
-![image](imgs\bst-3.png)
+![image](imgs/bst-3.png)
 
 257. Binary Tree Paths
 230. Kth Smallest Element in a BST
