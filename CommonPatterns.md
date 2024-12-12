@@ -1,41 +1,4 @@
-# DataStructuresAndAlgorithm
-
-## Data Structures
-| Linear        | Non-Linear |
-| --------      | -------    |
-| Arrays        | Trees      |
-| Linked-List   | BST        |
-| Stacks        | Heaps      |
-| Queues        | Graphs     |
-| Hash Tables   | Trie       |
-|               | Union-Find |
-
-
-## Algorithms
-- Sorting
-- Binary Search
-- Bit Manipulation
-- [In-Order / Pre-Order / Post-Order / Level-Order](/BinaryTreeTraversal.md)
-- [DFS](/DepthFirstSearch.md) / [BFS](/BreadthFirstSearch.md)
-- Toplogical Sort
-- Dijkstra
-- Bellman Ford
-
-
-## Problem-Solving Techniques
-- [Two Pointers](/TwoPointers.md)
-- [Sliding Window](/SlidingWindows.md)
-- [Prefix Sum](/PrefixSum.md)
-- [Fast and Slow Pointers](/FastAndSlowPointers.md)
-- Divide & Conquer
-- Greedy
-- Recursion
-- [Backtracking](/Backtracking.md)
-- [Dynamic Programming](/DynamicProgramming.md)
-- [Top 'K' Elements](/TopKElement.md)
-
-
-## Common Patterns
+# [Common Patterns](/CommonPatterns.md)
 
 ### [Prefix Sum](/PrefixSum.md)
 ![image](imgs\prefix-sum-0.png)
