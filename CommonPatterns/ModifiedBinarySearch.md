@@ -1,4 +1,4 @@
-## [CommonPatterns](/README.md#common-patterns) - Modified Binary Search
+## [CommonPatterns](..//README.md#common-patterns) - Modified Binary Search
 - Solve problem where the array in imperfectly sorted
     - Searching in a nearly sorted array
     - Searching in a rotated sorted array
@@ -8,9 +8,9 @@
     - Finidng the square root of a number
     - Finidng a peak element
 
-![image](imgs/mbs-0.png)
+![image](../imgs/mbs-0.png)
 
-![image](imgs/mbs-1.png)
+![image](../imgs/mbs-1.png)
 
 33. Search in Rotated Sorted Array
 153. Find Minimum in Rotated Sorted
