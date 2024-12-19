@@ -36,45 +36,17 @@
 
 
 ## Common Patterns
-
-### [Prefix Sum](/CommonPatterns/PrefixSum.md)
-![image](imgs/prefix-sum-0.png)
-
-### [Two Pointer](/CommonPatterns/TwoPointers.md)
-![image](imgs/two-pointers-00.png)
-
-### [Sliding Window](/CommonPatterns/SlidingWindows.md)
-![image](imgs/sliding-window-0.png)
-
-### [Fast & Slow Pointer](/CommonPatterns/FastAndSlowPointers.md)
-![image](imgs/fns-0.png)
-
-### [Linked List In-Place Reversal](/CommonPatterns/LinkedListInPlaceReversal.md)
-![image](imgs/llipr-0.png)
-
-### [Monotonic Stack](/CommonPatterns/MonotonicStack.md)
-![image](imgs/monotonic-stack-0.png)
-
-### [Top 'k' Elements](/CommonPatterns/TopKElement.md)
-![image](imgs/top-k-0.png)
-
-### [Overlapping Intervals](/CommonPatterns/OverlappingIntervals.md)
-![image](imgs/overlapping-0.png)
-
-### [Modified Binary Search](/CommonPatterns/ModifiedBinarySearch.md)
-![image](imgs/mbs-0.png)
-
-### [Depth-First Search(DFS)](/CommonPatterns/DepthFirstSearch.md)
-![image](imgs/dfs-0.png)
-
-### [Breadth-First Search(BFS)](/CommonPatterns/BreadthFirstSearch.md)
-![image](imgs/bfs-0.png)
-
-### [Matrix Traversal](/CommonPatterns/MatrixTraversal.md)
-![image](imgs/matrix-traversal-0.png)
-
-### [Backtracking](/CommonPatterns/Backtracking.md)
-![image](imgs/backtracking-0.png)
-
-### [Dynamic Programming](/CommonPatterns/DynamicProgramming.md)
-![image](imgs/dp-0.png)
+### 1. [Prefix Sum](/CommonPatterns/PrefixSum.md)
+### 2. [Two Pointer](/CommonPatterns/TwoPointers.md)
+### 3. [Sliding Window](/CommonPatterns/SlidingWindows.md)
+### 4. [Fast & Slow Pointer](/CommonPatterns/FastAndSlowPointers.md)
+### 5. [Linked List In-Place Reversal](/CommonPatterns/LinkedListInPlaceReversal.md)
+### 6. [Monotonic Stack](/CommonPatterns/MonotonicStack.md)
+### 7. [Top 'k' Elements](/CommonPatterns/TopKElement.md)
+### 8. [Overlapping Intervals](/CommonPatterns/OverlappingIntervals.md)
+### 9. [Modified Binary Search](/CommonPatterns/ModifiedBinarySearch.md)
+### 10. [Depth-First Search(DFS)](/CommonPatterns/DepthFirstSearch.md)
+### 11. [Breadth-First Search(BFS)](/CommonPatterns/BreadthFirstSearch.md)
+### 12. [Matrix Traversal](/CommonPatterns/MatrixTraversal.md)
+### 13. [Backtracking](/CommonPatterns/Backtracking.md)
+### 14. [Dynamic Programming](/CommonPatterns/DynamicProgramming.md)
